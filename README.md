@@ -1,21 +1,15 @@
- #  NTWIST official Website Clone .
+ #  Basic Github homepage clone .
  Languages used - javascript , HTML , CSS .\
  Library used - React .\
  I have used Bootstrap for easy designing and to reduce code complexcity.\
- I have also used a external CDN for Hovering effects of grid content.\
+
 
  # Output - 
-![VID_20230901164202](https://github.com/MalharMane/react-finmee-project/assets/104439115/bf8ad9c9-aa90-4d64-a1ec-7ec5ef5956d0)
+![Screenshot (25)](https://github.com/MalharMane/react-finmee-github-clone/assets/104439115/fde39028-903f-4fdc-a091-18341fbde4ac)
 
- ## Transperent Navbar and Homepage title -
- ![Screenshot (20)](https://github.com/MalharMane/react-finmee-project/assets/104439115/3ea8355d-bccf-4786-834c-c15b553cba41)
 
- ## background Filled Navbar after scroll -
- ![Screenshot (21)](https://github.com/MalharMane/react-finmee-project/assets/104439115/b42f0176-020f-407a-a5e8-2047941be3e2)
+![Screenshot (25)](https://github.com/MalharMane/react-finmee-github-clone/assets/104439115/4ad98751-135e-4600-835f-b6c6539a20b9)
 
-## Customised Footer of NTWIST -  
- 
-![Screenshot (22)](https://github.com/MalharMane/react-finmee-project/assets/104439115/49f47d47-48d8-46f6-a066-be4953d1b9de)
 
 
 
@@ -53,37 +47,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
