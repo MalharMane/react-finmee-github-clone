@@ -8,7 +8,8 @@
 ![Screenshot (25)](https://github.com/MalharMane/react-finmee-github-clone/assets/104439115/fde39028-903f-4fdc-a091-18341fbde4ac)
 
 
-![Screenshot (25)](https://github.com/MalharMane/react-finmee-github-clone/assets/104439115/4ad98751-135e-4600-835f-b6c6539a20b9)
+![Screenshot (26)](https://github.com/MalharMane/react-finmee-github-clone/assets/104439115/6736ba39-1772-4978-9ea7-1ba76a970b55)
+
 
 
 
